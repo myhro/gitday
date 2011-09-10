@@ -1,4 +1,4 @@
 Assinaturas dos presentes no #gitday:
 
-Danilo Araújo Silva
+Danilo Araújo Silva - git
 Tiago Ilieve Ataide Fontes
