@@ -1,6 +1,7 @@
-Assinaturas dos presentes no #gitday:
+﻿Assinaturas dos presentes no #gitday:
 -------------------------------------
 
 Danilo Araújo Silva
 Flaudísio Tolentino Filho
+marcus vinicius oliveira martins (Mbodock)
 Tiago Ilieve Ataide Fontes
