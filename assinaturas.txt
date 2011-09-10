@@ -2,7 +2,7 @@ Assinaturas dos presentes no #gitday:
 -------------------------------------
 
 Antônio Oliveira Lima Filho
-Danilo Araújo Silva
+Danilo Araújo Silva - git
 Flaudísio Tolentino Filho
 Karoline Inge Hertel
 Tiago Ilieve Ataide Fontes
